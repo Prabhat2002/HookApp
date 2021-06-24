@@ -1,0 +1,23 @@
+button
+{
+    text-align: center;
+    margin: 19% 43.5%;
+    padding:0.6% 3%;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+button:hover
+{
+    border: 3px solid #001d9e;
+    border-radius: 15px;
+}
+h1
+{
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-style: normal;
+    color: rgb(0, 153, 102);
+    text-align: center;
+
+}
